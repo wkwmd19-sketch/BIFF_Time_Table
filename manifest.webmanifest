@@ -1,0 +1,26 @@
+{
+  "name": "BIFF 2026 시간표",
+  "short_name": "BIFF 2026",
+  "description": "BIFF 2026 10/08~10/11 상영 일정 드래그·탭 선택 시간표",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#17365D",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
