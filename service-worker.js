@@ -1,4 +1,4 @@
-const CACHE_NAME = "biff-2026-pwa-v1";
+const CACHE_NAME = "biff-2026-pwa-v2";
 const APP_SHELL = [
   "./",
   "./index.html",

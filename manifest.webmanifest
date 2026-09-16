@@ -1,7 +1,7 @@
 {
   "name": "BIFF 2026 시간표",
   "short_name": "BIFF 2026",
-  "description": "BIFF 2026 10/08~10/11 상영 일정 드래그·탭 선택 시간표",
+  "description": "BIFF 2026 10/07~10/11 상영 일정 드래그·탭 선택 시간표",
   "lang": "ko-KR",
   "start_url": "./",
   "scope": "./",
